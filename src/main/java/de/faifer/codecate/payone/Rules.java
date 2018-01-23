@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * The class represents rules of price policy with discounts for the checkout process
  * Created by IntelliJ IDEA.
  * User: juliafaifer
  */

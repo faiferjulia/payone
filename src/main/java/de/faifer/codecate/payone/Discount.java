@@ -6,6 +6,7 @@ import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 
 /**
+ * The class represents discount
  * Created by IntelliJ IDEA.
  * User: juliafaifer
  */

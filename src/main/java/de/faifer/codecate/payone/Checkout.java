@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * The class represents checkout
  * Created by IntelliJ IDEA.
  * User: juliafaifer
  */

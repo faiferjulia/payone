@@ -4,9 +4,7 @@ import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**
@@ -18,9 +16,7 @@ import java.util.Map;
 @Setter(AccessLevel.PROTECTED)
 public class Rules {
 
-    /**
-     * @param rules New rules
-     */
+
     private Map<Character, PricePolicy> rules = new HashMap<Character, PricePolicy>();
 
     /**
